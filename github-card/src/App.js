@@ -38,6 +38,7 @@ componentDidMount(){
   return (
     <div className="app">
         <div className="card">
+          <h2>My Github</h2>
       <p>{this.state.data.name}</p>
       <p>Username: {this.state.data.login}</p>
       <p>Bio: {this.state.data.bio}</p>

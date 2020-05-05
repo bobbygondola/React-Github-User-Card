@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+body{
+  background-color: wheat;
+}
 
 .App-logo {
   height: 40vmin;
@@ -42,4 +45,21 @@
   width: 33%;
   text-align: center;
   background-color: lightcyan;
+}
+h2{
+  border: 1px solid black;
+  width: 33%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 3%;
+  background-color: black;
+  color: aliceblue;
+}
+.followcard{
+border: 1px solid black;
+margin-top: 1%;
+width: 25%;
+margin: 0 auto;
+text-align: center;
+background-color: lightgray;
 }
